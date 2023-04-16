@@ -5,7 +5,7 @@ Hi, I'm Eunjin Kim 👋🏻
 
 ### Experiences
 👩🏻‍💻 Working on Wrtn Technologies \
-🌱 Learning MLops \
+🌱 Learning LMOps \
 🏆 Silver Prize on NIKL AI Language Language Ability Evaluation Contest
 
 ### Degrees
