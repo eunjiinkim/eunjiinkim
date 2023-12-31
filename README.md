@@ -4,8 +4,7 @@ Hi, I'm Eunjin Kim 👋🏻
 - Currently, I'm also interested in LMOps!
 
 ### Experiences
-👩🏻‍💻 Working on Wrtn Technologies \
-🌱 Learning LMOps \
+👩🏻‍💻 Working on LG Display \
 🏆 Silver Prize on NIKL AI Language Language Ability Evaluation Contest
 
 ### Degrees
