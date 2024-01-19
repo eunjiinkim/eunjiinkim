@@ -3,8 +3,9 @@ Hi, I'm Eunjin Kim 👋🏻
 - Especially, I've deep-dived into prompt-tuning and p-tuning (soft-prompt).
 - Currently, I'm also interested in LMOps!
 
-### Experiences
-👩🏻‍💻 Working on LG Display \
+### Experiences & Careers
+👩🏻‍💻 2023.10 ~ LG Display DX AI/Bigdata Department Research Engineer\
+👩🏻‍💻 2023.03 ~ 2023.10 WRTN technologies ML Engineer \
 🏆 Silver Prize on NIKL AI Language Language Ability Evaluation Contest
 
 ### Degrees
