@@ -1,7 +1,7 @@
 Hi, I'm Eunjin Kim 👋🏻
 - I've mainly studied the analysis on Transformer-based PLM in terms of Linguistics and Attention Mechanism.
 - Especially, I've deep-dived into prompt-tuning and p-tuning (soft-prompt).
-- Currently, I'm also interested in LMOps and on-device ai.
+- Recently, I have been focusing on developing B2C and internal services based on LLMs.
 
 ### Experiences & Careers
 👩🏻‍💻 2023.10 ~ LG Display DX Language AI Research Engineer \
